@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoList_AndroidProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="todoEditText">할 일</string>
+</resources>
